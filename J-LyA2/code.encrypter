@@ -1,0 +1,82 @@
+$r = 5+0.5-$d+"";
+//int $b= 5 +4;
+5 +4;
+//(5-6;)
+$a;
+int $hui = 52;
+$hui = 53 +"";
+if ($r != 3)
+if ("hola" == 3){
+	if ($f != 3){
+
+	} else{
+
+	int $b= 5;
+	}
+}else{
+int $bu= 5;
+}
+//($hola, $k, int $n)//Error en los parentesis parametros
+if (($f == 3) || ($a > 6))
+if($f = $q)
+$f == ""//Error, el operador logico/relacional no esta en una expresion
+($f == $k) //Si?
+(2 == $l)
+if ($f == 4 != $f == 4)//Mal declarada
+int $a = 5;//Bien
+int = 6 //1 Falta el identificador y el punto y coma
+int $s = //2 Falta el valor y el punto y coma
+int $h 6 //3 Falta el operador de asignacion y el punto y coma
+$l = 5 // 4 Falta el tipo de dato y el punto y coma
+int $o = 6 //18 Falta el punto y coma
+int $p = 8;
+if($k, int $c)//parametros
+int $x, $q, $t//parametros
+
+/*Declaracion de una funcion*/
+$hola()//Mal
+function $suma (int $d ){
+	String $j = "";
+}
+8!=3
+if($a == 8)//Bien, no me pregunta por las llaves
+
+if($a == 8){ //No me pregunta por la llave que cierra
+	String $z="";
+	if($a == 7){ //Me pregunta por la llave que cierra
+	String $v="";
+}
+}
+while ($a == 8){ //No me pregunta por la llave que cierra
+	String $zl=8;
+	if($a == 7){ //Me pregunta por la llave que cierra
+	String $v6="";
+}
+}
+/*Comentarios*/
+/*
+Hola, soy un comentario de documentacion, es decir, de mas de una linea
+lllll
+*/
+//Hola, soy un comentario de 1 linea
+
+/*Declaracion de variables*/
+int $numero = 5 + 6 * 89 - 4;
+int $a = 5;
+$a = $a + 5 + 4 - 8;
+$l = 5;
+double $decimal;
+String $cadena = "";
+ /*Declaracion de constantes*/
+int $cadena = "Hola soy una constante";
+int $num2 = 25;
+double $decimal2 = 7.80;
+//funcion(int $s);
+// Error 2: falta el $ del identificador hola
+/*El valor no esta contenido en una funcion o estructura de control
+numero*/
+/*La funcion no esta declarada correctamente color*/
+//int $pasos;//El tipo de dato no esta en la declaracion de una variable
+//&
+/*if($decimal  == 10){
+}*/
